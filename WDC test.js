@@ -15,7 +15,7 @@ myConnector.init = function(initCallback) {
         "method": "GET",
         "timeout": 0,
         "headers": {
-          "Authorization": "Basic YjNjNzExYjMtOTc3My00NDk3LWIzMzgtOTBlNDk4NTg3MjQxOg==",
+          "Authorization": "Basic #####################",
         },
       };
       
